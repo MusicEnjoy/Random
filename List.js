@@ -4,7 +4,7 @@ let allMusic = [
     name: "Darah Muda",
     artist: "Rhoma Irama",
     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdU_T5sKLvXLCfyFC--DwZNtWq5_5Tm3qj0RcLHeiMj8kF3ArCIk_178Dm-n2ncaiiRux1BwYy0Vm49-nuHqnAdxnQsHPTQgg3d_qoQGGrk4KMWFYrUDsYFYePPaNjoLpisl_E47tYmO2vyA-ru1t3o4ArJlJbeAGnA9_sTm82eNeXUhe-xwLsImuwDw/s320/darah%20muda.png",
-    src: "https://github.com/STORAGESHOP/music/raw/main/Rhoma%20Irama%20-%20Darah%20Muda%20(Official%20Lyric%20Video).mp3"
+    src: "https://github.com/MusicEnjoy/Random/raw/main/Rhoma%20Irama%20-%20Darah%20Muda%20(Official%20Lyric%20Video).mp3"
   },
   
 
