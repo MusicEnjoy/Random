@@ -214,7 +214,7 @@ src: "https://github.com/STORAGESHOP/music/raw/main/TIARA%20-%20KRIS%203PB%20SAL
  name: "Kutidhieng",
  artist: "Liza Aulia",
  img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfskczy0RU39CyEh4wTZlSYCWXy4BS0JR_kaf0iDIVB_0yokCJJrnwOHbRh4vI_FTLJIgG4J2g6kgeE_EjvdfRdfXWLvjiDVGeDs4t18KgHAOmA3qYadNeG_4w0uIeqKTYUyGOjfJ4o-A2gIq50o8cBwlBJrQXBjXYMB1FnPzUvdCm0NhgsCeIiC2GQQ/s320/Kutidhieng.png",
- src: "https://github.com/STORAGESHOP/music/raw/main/Liza%20Aulia%20-%20Kutidhieng%20Official%20Music.mp3"
+ src: "Liza Aulia - Kutidhieng Official Music.mp3"
  },
   
   
