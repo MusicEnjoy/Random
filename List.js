@@ -18,7 +18,7 @@ let allMusic = [
     name: "Lily-Alan Walker, K-391 & Emelie Hollow",
     artist: "Alan Walker",
     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN91iVN3OzbMG5LxQHuSU6YlnoXX_KGs8voBnOCoYqtStu3URGvqqITepVq_kTnMyOaU0wMQQgLt5JO-Iq4_9GmWFZg4pCQb1Dm2_LqfjqmWgWlhLkiHhoTp8a7jVi9Kx8J9PC-Env9SvLCEOcfHMSlRo9s9fxGkqroN3dx6WDx-_kCwanEy_y6zjAfg/s320/Lily.png",
-    src: "https://github.com/STORAGESHOP/music/raw/main/Alan%20Walker%2C%20K-391%20%26%20Emelie%20Hollow%20-%20Lily.mp3"
+    src: "https://github.com/MusicEnjoy/Random/raw/main/Alan%20Walker%2C%20K-391%20%26%20Emelie%20Hollow%20-%20Lily.mp3"
   },
   
   
