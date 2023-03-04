@@ -32,7 +32,7 @@ let allMusic = [
     name: "Bidadari Cinta",
     artist: "Adella",
     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMAvywnEW91pfHsi3Zts5voIyRyXv49ZXIv-dGrL8HeLFa-2UaxbEa9yrwVOLYUjC70tfCTdSlzthzMomdPfcCHusUlAiTHxkkSwbgbG26R_SOA76ghPVwP3hso8PBDs5oJiq-bBhJKOOg15TRv3U3vC2IW0i6HZKWO7pq3xZQb32_R86PQC0NhdyhXg/s320/Bidadari%20Cinta.png",
-    src: "https://github.com/STORAGESHOP/music/raw/main/BIDADARI%20CINTA%20-%20Fendik%20Adella%20feat%20Lusyana%20Jelita%20-%20OM%20ADELLA.mp3"
+    src: "https://github.com/MusicEnjoy/Random/raw/main/BIDADARI%20CINTA%20-%20Fendik%20Adella%20feat%20Lusyana%20Jelita%20-%20OM%20ADELLA.mp3"
   },
   
   
