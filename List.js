@@ -46,7 +46,7 @@ let allMusic = [
     name: "Juragan Empang",
     artist: "Nella Kharisma",
     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLXHYVuGFpYmqK26Hd7-5NrDnEKHXSwngIL5sl6GESe3dS5Ph9e1366-ifGkbGQ7Vgl7AJqpYaCR_oPFoPcdcMK_lySBr2UGGf4tUjxA2xTuHVRG-CEyTtIDmsl-VCeIxe1FCEOyt2mD2_wQQs2lZ6u50SZToM_PUfzqGRP4rLvqpWNYCTs2aDvHUFUQ/s320/Juragan%20Empang.png",
-    src: "https://github.com/STORAGESHOP/music/raw/main/Nella%20Kharisma%20-%20Juragan%20Empang%20%5BOFFICIAL%5D.mp3"
+    src: "https://github.com/MusicEnjoy/Random/raw/main/Nella%20Kharisma%20-%20Juragan%20Empang%20%5BOFFICIAL%5D.mp3"
 },
   
   
