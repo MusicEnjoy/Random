@@ -74,7 +74,7 @@ id: "song-6",
 name: "Tiara",
 artist: "Sallsa Bintan 3PB",
 img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkmWatytntQFhgLmgMRxh-nJCrKQXc3wNkHsGggHmPiEcaPNjDrrl1gpUuxUsepzidzv4DOmeCIBYOwPJwpL-PUqaWD5h2WOhr5oE7ffERXI60e2BJ8eg5dTsMKwBapvxIz5LrUPwvM4qm_MMjmidGpW2fP3WRPgjMJLSFP4qZ0qrNzi_MV8u2gwjjA/s320/Tiara.png",
-src: "https://github.com/STORAGESHOP/music/raw/main/TIARA%20-%20KRIS%203PB%20SALLSA%20BINTAN.mp3"
+src: "https://github.com/MusicEnjoy/Random/raw/main/TIARA%20-%20KRIS%203PB%20SALLSA%20BINTAN.mp3"
   },
   
   
