@@ -60,7 +60,7 @@ let allMusic = [
     name: "Runtah Remix Ft Imp ID",
     artist: "Azmy Z",
     img: "https://img.youtube.com/vi/lAIdX9Rv3Rk/default.jpg",
-    src: "https://archive.org/download/album_dangdut/RUNTAH%20REMIX%20BY%20AZMY%20Z%20FT%20IMP%20ID%20%23azmyz%20%23runtah%20%23lagusunda.mp3"
+    src: "https://github.com/MusicEnjoy/Random/raw/main/RUNTAH%20REMIX%20BY%20AZMY%20Z%20FT%20IMP%20ID%20%23azmyz%20%23runtah%20%23lagusunda.mp3"
 },
   
   
