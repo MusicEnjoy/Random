@@ -2,10 +2,10 @@
 
 <br/>
 
-Iframe
+Embed
 
 ~~~
-https://musicenjoy.github.io/Random/Name
+<iframe src="https://musicenjoy.github.io/Random/" style="border:0px #ffffff none;" name="CustomMusic" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen loading="lazy"></iframe>
 ~~~
 
 <br/>
