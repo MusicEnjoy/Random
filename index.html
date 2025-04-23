@@ -5,49 +5,36 @@
 <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkM-C_Kg3MxSycfzTGXrcxsLKA311g9Sd5YQ&usqp=CAU"/>
 <meta charset="UTF-8">
 <style>
-html,
-body {
+html, body {
     height: 100%;
     margin: 0;
 }
 
+.frequency {
+    min-width: 50%;
+}
 
-
-.mt-3 {
-    margin-top: 15px;
-    
+.frequency #cv {
+    position: relative;
+    left: 5%;
+    width: 90%;
+    min-height: 148px;
 }
 
 .mb-3 {
-
     display: flex;
     justify-content: center;
     align-items: center;
-    color:aqua;
+    color: aqua;
 }
 
 .row {
     display: flex;
-}
-
-.col {
-    flex-grow: 1;
-    flex-shrink: 1;
-}
-
-.player {
-    display: flex;
-    height: 100%;
-    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .toolbar {
     min-height: 128px;
-}
-
-.frequency {
-    min-height: 128px;
-    
 }
 
 .video {
@@ -55,19 +42,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.frequency canvas {
-  position: relative;
-  left:5%;
-  width: 90%;
-  min-height: 140px;
-    
+    width: 100%;
 }
 
 .video video {
     width: 100%;
-    height: 100%;
+    max-height: 100%;
+    height: auto;
     vertical-align: middle;
 }
 
@@ -83,11 +64,11 @@ body {
     vertical-align: middle;
 }
 
-.file:hover {
+.file:hover, .btn:hover {
     color: #121417;
 }
 
-.file>input[type="file"] {
+.file > input[type="file"] {
     position: absolute;
     top: 0;
     left: 0;
@@ -106,9 +87,7 @@ body {
     vertical-align: middle;
 }
 
-.btn:hover {
-    color: #121417;
-}
+
 
 .equalizer {
     position: absolute;
@@ -116,8 +95,6 @@ body {
     top: 50%;
     width: 100%;
     height: auto;
-    
-    
 }
 
 .slide-wrapper {
@@ -130,7 +107,7 @@ body {
     margin: 0 5px;
     line-height: 0;
     border-radius: 3px;
-    background: LIGHTSLATEGRAY;
+    background: lightslategray;
 }
 
 .slide-wrapper input[type="range"] {
@@ -150,7 +127,7 @@ body {
 input[type="range"]::-webkit-slider-runnable-track {
     width: 100%;
     height: 4px;
-    background-color: CYAN;
+    background-color: cyan;
     border-radius: 3px;
 }
 
@@ -182,39 +159,33 @@ input[type="range"]::-moz-range-thumb {
 }
 
 select {
-  border: 1px solid #dddddd;
-  height: 34px;
-}
-audio::-webkit-media-controls-panel {
-  background-color: #56AEFF;
-  color:pink;
+    border: 1px solid #dddddd;
+    height: 34px;
 }
 
-audio::-webkit-media-controls-current-time-display {
-  color: #fff;
+audio::-webkit-media-controls-panel {
+    background-color: #56aeff;
+    color: pink;
 }
+
+audio::-webkit-media-controls-current-time-display,
 audio::-webkit-media-controls-time-remaining-display {
-  color: #fff;
+    color: #fff;
 }
 
 audio::-webkit-media-controls-volume-slider {
-  background-color: #B1D4E0;
-  border-radius: 25px;
-  padding-left: 8px;
-  padding-right: 8px;
+    background-color: #B1D4E0;
+    border-radius: 25px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
-#combox-equalizer {
-    border-radius: 10%;
-    border: 1px solid #56aeff;
-    color: VIOLET;
-    background-color: LIGHTBLUE;
-}
+#combox-equalizer,
 #combox-draw {
     border-radius: 10%;
     border: 1px solid #56aeff;
-    color: VIOLET;
-    background-color: LIGHTBLUE;
+    color: violet;
+    background-color: lightblue;
 }
 /* ======================= */
 /*        Responsive       */
